@@ -4,19 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=by belowzeroiq @ github
+kernel.string=by belowzeroiq @ github mod by Jembut
 do.devicecheck=1
 do.modules=0
-do.systemless=0
+do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=sapphiren
-device.name4=sapphire
-supported.versions=13-16
+device.name1=lavender
+supported.versions=
 supported.patchlevels=
-supported.vendorpatchlevels=
 '; } # end properties
 
 
